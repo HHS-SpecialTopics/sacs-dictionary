@@ -1,3 +1,3 @@
 # CSS Dictionary
 
-**Headers: ** `h1.ui-article-title`
+**Headers:** `h1.ui-article-title`
