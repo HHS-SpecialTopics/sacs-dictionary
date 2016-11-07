@@ -1,6 +1,18 @@
 # CSS Dictionary
 
 
+## Homepage
+
+
+**Quick Links:** `ul.site-shortcuts` (*Individual links found in `.li.a`*)
+
+
+## Sub-Pages (i.e. Students, Parents, Staff, etc.)
+
+
+**Navigation:** `ul.page-navigation` (*Individual links found in `.li.a.span`*)
+
+
 ## Articles Excerpts on Homepage
 
 
@@ -18,4 +30,4 @@
 
 **Titles:** `div.ui-widget-header` (*Text found in `.h1.span`*)
 
-**Contents:** `div.ui-widget-detail` (*Text found in third unclassed `div`*)
+**Contents:** `div.ui-widget-detail`
