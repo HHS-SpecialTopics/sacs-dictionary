@@ -12,6 +12,12 @@
 
 **Navigation:** `ul.page-navigation` (*Individual links found in `.li.a.span`*)
 
+**Page Contents:** `div.ui-widget-detail`
+
+**Articles:** `div.ui-article`
+
+**Last Article:** `div.last-article` (*Also classed as `ui-article`*)
+
 
 ## Articles Excerpts on Homepage
 
